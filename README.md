@@ -19,7 +19,7 @@ The most effective way of protecting each other during the COVID-19 pandemic is 
 THE data used in this project is from a Zindi Africa, [The spot mask Challenge](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge) , after participating in the competition I had the idea of using the data to built a face mask detector.
 
 I built a deep learning model `Spotmask.ipynb `, transfer learning used pretrained MobileNet application and performed a data augmentation by scaling the images to obtain a very accurate model.
-Saved the model and used it to build a system  `video.py ` to predict if a person is wearing a face mask or not .
+Saved the model and used it to build a system  `video.py ` to predict if a person is wearing a face mask or not ina live video stream.
 
 ## DATASET
 
