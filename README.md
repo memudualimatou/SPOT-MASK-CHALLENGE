@@ -10,9 +10,9 @@ The most effective way of protecting each other during the COVID-19 pandemic is 
 
 * [OPENCV](https://opencv.org/about/)
 * [TensorFlow](https://www.tensorflow.org/)
-* [KERAS] (https://keras.io/)
-* [MobileNet] (https://keras.io/api/applications/mobilenet/)
-* [Caffe based face detector] (https://caffe.berkeleyvision.org/)
+* [KERAS](https://keras.io/)
+* [MobileNet](https://keras.io/api/applications/mobilenet/)
+* [Caffe based face detector](https://caffe.berkeleyvision.org/)
 
 ## SYSTEM 
 
