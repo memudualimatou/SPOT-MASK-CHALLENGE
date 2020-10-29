@@ -23,14 +23,14 @@ Saved the model and used it to build a system to predict if a person is wearing 
 
 ## DATASET
 
-as mentioned earlier, the dataset is from a Zindi Africa competition, download it here [CLICK HERE ](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/data)
+As mentioned earlier, the dataset is from a Zindi Africa competition, download it here [CLICK HERE ](https://zindi.africa/competitions/zindiweekendz-learning-spot-the-mask-challenge/data)
 
 This dataset consists of 3 elements:
- * an image zip file that contains the images 
-      *MASK: 1308 images
-      *NO-MASK: 509 images
- * a train labels file
- * sample of the submission file
+ * An image zip file that contains the images 
+      * MASK: 1308 images
+      * NO-MASK: 509 images
+ * A train labels file
+ * Aample of the submission file
 
 ## RESULT
 ![mask detector](https://github.com/memudualimatou/SPOT-MASK-CHALLENGE/blob/master/ezgif.com-gif-maker.gif)
