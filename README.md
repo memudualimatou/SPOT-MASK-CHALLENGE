@@ -30,7 +30,7 @@ This dataset consists of 3 elements:
       * MASK: 1308 images
       * NO-MASK: 509 images
  * A train labels file
- * Aample of the submission file
+ * A sample of the submission file
 
 ## RESULT
 ![mask detector](https://github.com/memudualimatou/SPOT-MASK-CHALLENGE/blob/master/ezgif.com-gif-maker.gif)
